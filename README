@@ -1,0 +1,15 @@
+***
+Simple extension to allow hide/show of speed slider in NetLogo 
+
+Works in Applet and Application contexts
+
+***
+Expansion possibilities -- add other elements of the framing UI that can be hidden/shown.
+ 
+***
+Example model can be run in NetLogo 5.0 with extension; 
+Example HTML file can be run in browser with double-click.
+
+***
+Credits -- Thanks to my daughter, Fiona Brady, who did this as an exercise in recursion.
+
