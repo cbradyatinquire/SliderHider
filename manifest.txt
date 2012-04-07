@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Extension-Name: sliderhider
+Class-Manager: speed.SliderHider
+NetLogo-Extension-API-Version: 5.0
